@@ -30,11 +30,9 @@
   },
   "homepage": "https://github.com/teleport/react-dnd-treeview/",
   "devDependencies": {
-    "@types/classnames": "^0.0.31",
+    "@types/classnames": "^2.2.3",
     "@types/node": "^6.0.46",
-    "@types/react": "^0.14.44",
-    "@types/react-dnd": "^2.0.31",
-    "@types/react-dnd-html5-backend": "^2.1.4",
+    "@types/react": "^16.4.8",
     "babel-core": "^6.0.20",
     "babel-eslint": "^4.1.3",
     "babel-loader": "^6.0.1",
@@ -54,14 +52,14 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
-    "@types/react-dom": "^0.14.18",
+    "@types/react-dom": "^16.0.7",
     "classnames": "^2.2.3",
     "immutable": "^3.8.1",
-    "react": "^0.14.6",
-    "react-dnd": "^2.1.3",
-    "react-dnd-html5-backend": "^2.1.2",
+    "react-dnd-html5-backend": "^3.0.2",
     "react-dnd-touch-backend": "^0.2.5",
-    "react-dnd-treeview": "^0.4.1",
-    "react-dom": "^0.14.6"
+    "react": "^16.4.2",
+    "react-dnd": "^3.0.2",
+    "react-dnd-treeview": "ccmjz/react-dnd-treeview",
+    "react-dom": "^16.4.2"
   }
 }
